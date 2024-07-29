@@ -24,9 +24,8 @@ Welcome to my GitHub profile! I'm an electronics engineer with a passion for tec
 - I'm a big fan of exploring different cultures and cuisines. 🍣🍕🌮
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/) 
-- [Twitter](https://twitter.com/)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-javad-arab-245621260/) 
+- [Email](javad.arab42@gmail.com)
 
 ## 🚀 My Projects
 Here are some of the cool projects I've worked on:

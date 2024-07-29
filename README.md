@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm an electronics engineer with a passion for tec
 ## 🚀 My Projects
 Here are some of the cool projects I've worked on:
 - **Access Control System**: A sophisticated system featuring PCB design, RS485 communication, and a C# application for control and monitoring.
-- **Kave Company SafeBox Project 🚀**:A cutting-edge SafeBox system with STM32 microcontroller, touch panel, user management, and robust security features, developed by Palizafzar Company for Kave Company.
+- **Kave Company SafeBox Project **:A cutting-edge SafeBox system with STM32 microcontroller, touch panel, user management, and robust security features, developed by Palizafzar Company for Kave Company.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech, business, or anything in between. 😊
